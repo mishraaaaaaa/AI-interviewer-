@@ -1,0 +1,8 @@
+#run the below command in terminal
+#pip install -r requirements.txt
+
+streamlit
+groq
+python-dotenv
+pdfplumber
+python-docx
